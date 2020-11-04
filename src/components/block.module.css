@@ -1,0 +1,10 @@
+.wrapperBlock{
+    display: flex;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.activeBorder {
+    border: 5px solid #6d1313;
+}
